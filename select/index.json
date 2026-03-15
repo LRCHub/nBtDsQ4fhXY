@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Cold Water（feat. Justin Bieber、MØ）",
+  "base_artist": "Major Lazer",
+  "createdAt": "2026-03-15T08:04:29.647359Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cold Water (feat. Justin Bieber & MØ)",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/01_Cold_Water_(feat._Justin_Bieber_&_MØ)_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cold Water (feat. Justin Bieber & MØ)",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/02_Cold_Water_(feat._Justin_Bieber_&_MØ)_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cold Water (feat. Justin Bieber & MØ)",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/03_Cold_Water_(feat._Justin_Bieber_&_MØ)_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cold Water (feat. Justin Bieber & MØ)",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/04_Cold_Water_(feat._Justin_Bieber_&_MØ)_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cold Water [Feat. Justin Bieber, MØ]",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/05_Cold_Water_[Feat._Justin_Bieber,_MØ]_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cold Water (feat. Justin Bieber & MØ)",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/06_Cold_Water_(feat._Justin_Bieber_&_MØ)_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cold Water (feat. Justin Bieber/MØ)",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/07_Cold_Water_(feat._Justin_Bieber_MØ)_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cold Water (feat. Justin Bieber & MØ)",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/08_Cold_Water_(feat._Justin_Bieber_&_MØ)_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cold Water (feat. Justin Bieber & MØ)",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/09_Cold_Water_(feat._Justin_Bieber_&_MØ)_Major_Lazer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cold Water (feat. Justin Bieber & MØ)",
+      "artist": "Major Lazer",
+      "has_synced": false,
+      "path": "select/pl_01_Cold_Water_(feat._Justin_Bieber_&_MØ)_Major_Lazer.txt"
+    }
+  ]
+}
