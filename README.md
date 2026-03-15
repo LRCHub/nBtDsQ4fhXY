@@ -1,0 +1,55 @@
+# Major Lazer – Cold Water（feat. Justin Bieber、MØ）
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:03.02] Everybody gets high sometimes, you know
+[00:07.97] What else can we do when we're feeling low?
+[00:12.92] So take a deep breath and let it go
+[00:18.13] You shouldn't be drowning on your own
+[00:36.63] 
+[00:22.24] And if you feel you're sinking, I will jump right over
+[00:27.73] Into cold, cold water for you
+[00:32.49] And although time may take us into different places
+[00:38.19] I will still be patient with you
+[00:42.79] And I hope you know
+[00:52.29] 
+[00:45.46] I won't let go
+[00:50.56] I'll be your lifeline tonight
+[00:55.83] I won't let go
+[01:00.94] I'll be your lifeline tonight
+[01:15.44] 
+[01:06.94] Cause we all get lost sometimes, you know?
+[01:12.42] It's how we learn and how we grow
+[01:17.67] And I wanna lay with you 'til I'm old
+[01:22.98] You shouldn't be fighting on your own
+[01:41.48] 
+[01:26.80] And if you feel you're sinking, I will jump right over
+[01:32.24] Into cold, cold water for you
+[01:37.10] And although time may take us into different places
+[01:42.57] I will still be patient with you
+[01:47.46] And I hope you know
+[01:56.96] 
+[01:49.97] I won't let go
+[01:52.47] (I won't let go, no no, no no no no)
+[01:55.63] I'll be your lifeline tonight
+[02:00.20] I won't let go
+[02:05.33] I'll be your lifeline tonight
+[02:19.83] 
+[02:11.50] Come on, come on
+[02:12.93] Save me from my rocking boat
+[02:15.33] I just wanna stay afloat
+[02:18.34] I'm all alone
+[02:21.65] And I hope, I hope someone come and take me home
+[02:25.42] Somewhere I can rest my soul
+[02:28.56] I need to know you won't let go
+[02:44.06] 
+[02:32.99] I won't let go
+[02:34.96] (I won't let go, no no, no no no no)
+[02:37.19] I'll be your lifeline tonight
+[02:41.57] I won't let go
+[02:46.75] I'll be your lifeline tonight
+[03:01.25] 
+[02:52.18] I won't let go
+[02:56.84] I won't let go
+```
